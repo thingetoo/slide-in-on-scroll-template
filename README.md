@@ -1,5 +1,5 @@
 # Slide in on Scroll Template
-> Here goes your awesome project description!
+> Check this out if you're looking for your images to slide in when you scroll
 
 ## Table of contents
 * [General info](#general-info)
@@ -12,7 +12,7 @@
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+Provide others with a piece of js code that they can implement into their projects. The code allows pictures to slide in dynamically triggered by a scroll event
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
