@@ -15,7 +15,7 @@
 Provide others with a piece of js code that they can implement into their projects. The code allows pictures to slide in dynamically triggered by a scroll event
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./img/sceeenshot.jpeg)
 
 ## Technologies
 * Tech 1 - version 1.0
